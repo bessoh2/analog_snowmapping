@@ -1,0 +1,16 @@
+name: icepick
+channels:
+- conda-forge
+dependencies:
+- python
+- jupyterlab
+- matplotlib
+- descartes
+- pandas
+- cartopy
+- fiona
+- shapely
+- geopandas
+- h5py
+- requests
+- jupyter-offlinenotebook
