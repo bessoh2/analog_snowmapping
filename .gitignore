@@ -1,3 +1,7 @@
+# individual files:
+data/temp/atl06_sr_1m_sierras_south.pkl
+data/temp/atl06_sr_1m_sierras_north.pkl
+
 # Large data files:
 *.nc
 *.tif
