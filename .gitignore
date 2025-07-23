@@ -1,10 +1,13 @@
-# individual files:
-data/temp/atl06_sr_1m_sierras_south.pkl
-data/temp/atl06_sr_1m_sierras_north.pkl
-
 # Large data files:
 *.nc
 *.tif
+
+# folders:
+/writing/
+data/temp/
+data/misc/WBD_16_HU2_Shape2/
+data/misc/WBD_18_HU2_Shape/
+swe_reanalysis_pca/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
