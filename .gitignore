@@ -1,12 +1,14 @@
 # Large data files:
 *.nc
 *.tif
+*.pptx
+
+# specific files:
+writing/project_documentation.pptx
 
 # folders:
-/writing/
-data/temp/
-data/misc/WBD_16_HU2_Shape2/
-data/misc/WBD_18_HU2_Shape/
+writing/
+data/
 swe_reanalysis_pca/
 
 # Byte-compiled / optimized / DLL files
