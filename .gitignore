@@ -2,6 +2,7 @@
 *.nc
 *.tif
 *.pptx
+*_cache.sqlite
 
 # specific files:
 writing/project_documentation.pptx
